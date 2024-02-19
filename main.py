@@ -27,4 +27,4 @@ elif noms_des_piment == "Thai":
 elif noms_des_piment == "Habanero":
      piquant_de_chili += 125000
 
-print(""+ piquant_de_chili +"")
+print("",piquant_de_chili)
